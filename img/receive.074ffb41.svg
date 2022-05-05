@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="104" height="43" viewBox="0 0 104 43">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c18f07;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: #fff;
+        opacity: 0.8;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffd081"/>
+      <stop offset="1" stop-color="#faa513"/>
+    </linearGradient>
+  </defs>
+  <g id="组_56574" data-name="组 56574" transform="translate(-134 -211)">
+    <g id="组_56573" data-name="组 56573" transform="translate(134 211)">
+      <rect id="矩形_21389" data-name="矩形 21389" class="cls-1" width="104" height="40" rx="20" transform="translate(0 3)"/>
+      <rect id="矩形_21388" data-name="矩形 21388" class="cls-2" width="104" height="40" rx="20"/>
+    </g>
+    <path id="圆角矩形_2_拷贝_4" data-name="圆角矩形 2 拷贝 4" class="cls-3" d="M5.926,2.776A1.388,1.388,0,0,1,5.926,0h8.949a1.388,1.388,0,1,1,0,2.776Zm-4.538,0A1.388,1.388,0,1,1,1.388,0h.466a1.388,1.388,0,0,1,0,2.776Z" transform="translate(144.984 215.224)"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.53" height="15.426" viewBox="0 0 24.53 15.426">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d8e2ea;
+      }
+    </style>
+  </defs>
+  <g id="组_65980" data-name="组 65980" transform="translate(-60.568 -7.813)">
+    <path id="menu_icon" data-name="menu icon" class="cls-1" d="M2,15.426a2,2,0,0,1-2-2v-.688a2,2,0,0,1,2-2H22.53a2,2,0,0,1,2,2v.688a2,2,0,0,1-2,2ZM11.812,4.687a2,2,0,0,1-2-2V2a2,2,0,0,1,2-2H22.53a2,2,0,0,1,2,2v.688a2,2,0,0,1-2,2Z" transform="translate(85.097 23.239) rotate(180)"/>
+  </g>
+</svg>
